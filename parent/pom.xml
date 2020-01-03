@@ -389,7 +389,7 @@
     <josql-bundle-version>1.5_5</josql-bundle-version>
     <josql-version>1.5</josql-version>
     <!-- Upgrade to 1.7.26 causes stability issues. See CAMEL-10477 -->
-    <jruby-version>1.7.18</jruby-version>
+    <jruby-version>9.2.9.0</jruby-version>
     <jsendnsca-version>1.3.1</jsendnsca-version>
     <jsmpp-version>2.3.4</jsmpp-version>
     <jsch-version>0.1.54</jsch-version>
