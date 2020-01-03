@@ -3144,27 +3144,27 @@
       <dependency>
         <groupId>org.eclipse.jetty.websocket</groupId>
         <artifactId>websocket-api</artifactId>
-        <version>9.4.4.v20170414</version>
+        <version>9.4.25.v20191220</version>
       </dependency>
       <dependency>
         <groupId>org.eclipse.jetty.websocket</groupId>
         <artifactId>websocket-common</artifactId>
-        <version>9.4.4.v20170414</version>
+        <version>9.4.25.v20191220</version>
       </dependency>
       <dependency>
         <groupId>org.eclipse.jetty.websocket</groupId>
         <artifactId>websocket-servlet</artifactId>
-        <version>9.4.4.v20170414</version>
+        <version>9.4.25.v20191220</version>
       </dependency>
       <dependency>
         <groupId>org.eclipse.jetty</groupId>
         <artifactId>jetty-rewrite</artifactId>
-        <version>9.4.4.v20170414</version>
+        <version>9.4.25.v20191220</version>
       </dependency>
       <dependency>
         <groupId>org.eclipse.jetty</groupId>
         <artifactId>jetty-util-ajax</artifactId>
-        <version>9.4.4.v20170414</version>
+        <version>9.4.25.v20191220</version>
       </dependency>
       <dependency>
         <groupId>org.jdom</groupId>
